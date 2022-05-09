@@ -34,4 +34,4 @@ We conduct experiments on eight scenarios on five datasets, where adult, compas 
 We compare PFFS to random selection and observe how many features each method needs to select to reach a balance between performance and fairness.
 
 ## Acknowledgment
-Many thanks to the code contribution of [*"Ignorance and Prejudice" in Software Fairness*](https://ieeexplore.ieee.org/document/9402057), our experiments are based on the work of this paper.
+Many thanks to the code contribution of [*"Ignorance and Prejudice" in Software Fairness*](https://ieeexplore.ieee.org/document/9402057), our experimental code are based on the work of this paper.
